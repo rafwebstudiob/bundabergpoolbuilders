@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bundabergpoolbuilders.com.au/sitemap.xml
